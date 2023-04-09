@@ -7,6 +7,6 @@ class Solution {
     }
 }
 
-/*Time Complexity: O(N)
+/*Time Complexity: O(N logN)
 * Space Complexity: O(1)
 */
