@@ -28,6 +28,6 @@ class Solution {
         }
     }
 }
-/* Time Complexity: O(log n)
-* Space Complexity: O(1)
+/* Time Complexity: O(n * log n)
+* Space Complexity: O(log n)
 */
